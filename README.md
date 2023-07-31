@@ -1,1 +1,1 @@
-"bcrypt mongodb monsoose next-auth "
+"bcrypt mongodb mongoose next-auth "
