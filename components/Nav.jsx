@@ -115,7 +115,8 @@ const Nav = () => {
                   Sign Out
                 </button>
               </div>}
-          </div> :
+          </div> 
+          :
           <>
             {providers &&
               Object.values(providers).map((provider) => {
