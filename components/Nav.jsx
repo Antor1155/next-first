@@ -50,7 +50,7 @@ const Nav = () => {
 
             <Link href="/profile">
               <Image
-                src="/assets/images/logo.svg"
+                src={session?.user.image}
                 width={37}
                 height={37}
                 alt="image of owner"
@@ -73,12 +73,12 @@ const Nav = () => {
           </>}
       </div>
 
-      {/*mobile navigation */}
+      {/*mobile navigation */ console.log(session)}
       <div className="sm:hidden flex relative">
         {session?.user ?
           <div className="flex">
             <Image
-              src="/assets/images/logo.svg"
+              src={session?.user.image}
               width={37}
               height={37}
               alt="image of owner"
