@@ -73,7 +73,7 @@ const Nav = () => {
           </>}
       </div>
 
-      {/*mobile navigation */ console.log(session)}
+      {/*mobile navigation */}
       <div className="sm:hidden flex relative">
         {session?.user ?
           <div className="flex">
