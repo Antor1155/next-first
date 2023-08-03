@@ -31,7 +31,7 @@ const MyProfile = () => {
     }
 
     return (
-        <Profile
+        <Profile 
             name="MY"
             desc="welcome to your personalized profile page"
             data={posts}
