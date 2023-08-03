@@ -30,7 +30,7 @@ const Nav = () => {
           width={40}
           height={40}
           className="object-contain rounded-full" />
-        <p className="logo_text"> CompanyName</p>
+        <p className="logo_text"> PromptGenius</p>
       </Link>
 
       {/* desktop navigation navigation  */}
