@@ -23,7 +23,12 @@ const PromptCard = ({ post, handleTagClick, handleEdit, handleDelete }) => {
   }
 
   const handleRoute = ()=>{
-    router.push(`/profile/${post.creator._id}?name=${post.creator.username}`)
+    console.log(session?.user.id, post.creator._id , "*** check")
+    if(session?.user.id === post.creator._id){
+      router.push("/profile")
+    }else{
+      router.push(`/profile/${post.creator._id}?name=${post.creator.username}`)
+    }
   }
 
   return (
