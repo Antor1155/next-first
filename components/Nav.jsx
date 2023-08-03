@@ -25,11 +25,11 @@ const Nav = () => {
     <nav className="flex-between w-full mb-16 pb-3">
       <Link href="/" className="flex gap-2 flex-center">
         <Image
-          src="/assets/images/logo.svg"
+          src="/assets/images/ailogo.png"
           alt="company logo"
-          width={30}
-          height={30}
-          className="object-contain" />
+          width={40}
+          height={40}
+          className="object-contain rounded-full" />
         <p className="logo_text"> CompanyName</p>
       </Link>
 
