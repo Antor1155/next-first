@@ -29,7 +29,6 @@ const MyProfile = () => {
     const handleDelete = async () =>{
 
     }
-
     return (
         <Profile 
             name="MY"
