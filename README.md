@@ -25,6 +25,8 @@
 * CRUD operation
 * vercel deployment
 * vercel Analytics
+* Git
+* Github
 * HTML
 * CSS
 * JavaScript
