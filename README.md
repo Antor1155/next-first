@@ -16,6 +16,7 @@
 ## Technologies used :
 * Next.js
 * React.js
+* Tailwind.css
 * NextAuth.js
 * GoogleAuthtication
 * Mongoose
