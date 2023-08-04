@@ -16,7 +16,7 @@
 ## Technologies used :
 * Next.js
 * React.js
-* NethAuth.js
+* NextAuth.js
 * GoogleAuthtication
 * Mongoose
 * MongoDB
@@ -30,8 +30,8 @@
 
 
 ## Technical Abilities:
-* Server side rendering and Client side renderign to get the best of both world.
-* Responsive to differnt Screen ratio, web view and mobile view.
+* Server side rendering and Client side rendering to get the best of both world.
+* Responsive to different Screen ratio, web view and mobile view.
 * Create account using google authentication.
 * See others Prompt with tag list.
 * Click on Prompt user to see all promt from that user
