@@ -1,6 +1,8 @@
-"bcrypt mongodb mongoose next-auth "
+
 
 # [PromptGenius](https://ai-prompts-pi.vercel.app/)
+
+## (02 August, 2023 - 04 August, 2023)
 
 ## It's a WebSite to share insightful ai commands (prompt) and learn from others.
 
@@ -11,7 +13,7 @@
 ### [Live link : https://ai-prompts-pi.vercel.app/](https://ai-prompts-pi.vercel.app/)
 
 
-## Technologies used
+## Technologies used :
 * Next.js
 * React.js
 * NethAuth.js
@@ -27,7 +29,7 @@
 * JavaScript
 
 
-## Technical Abilities
+## Technical Abilities:
 * Server side rendering and Client side renderign to get the best of both world.
 * Responsive to differnt Screen ratio, web view and mobile view.
 * Create account using google authentication.
